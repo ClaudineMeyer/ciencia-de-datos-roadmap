@@ -1,23 +1,29 @@
 ## Estructura de Directorios y Archivos Resultantes
     .
+    │ 
     ├── matematicas
     │ ├── algebra lineal
     │ ├── calculo multivariable
     │ └── calculo diferencial
+    │ 
     ├── estadisticas
     │ ├── estadistica basica
     │ ├── probabilidad basica
     │ └── estadistica avanzada
+    │ 
     ├── calculo
     │ ├── calculo 1
     │ └── calculo 2
+    │ 
     ├── codigo
     │ ├── python para ds
     │ ├── algoritmos
     │ └── sql
+    │ 
     ├── eda
     │ ├── limpieza de datos
     │ └── eda
+    │ 
     ├── ml
     │ ├── Clasificacion
     │ │ ├── Árboles de Decisión
@@ -31,6 +37,7 @@
     │ │ ├── AdaBoost
     │ │ ├── Gradient Boosting (como XGBoost, LightGBM)
     │ │ └── auto clasificacion
+    │ │ 
     │ └── Regresion
     │ ├── Regresión Lineal
     │ ├── Regresión Ridge
@@ -43,6 +50,7 @@
     │ ├── Regresión de Mínimos Cuadrados Parciales (PLS Regression)
     │ ├── Elastic Net Regression
     │ └── Auto regresion
+    │ 
     ├── .gitignore
     ├── REQUIREMENTS.txt
     ├── LICENSE.md
