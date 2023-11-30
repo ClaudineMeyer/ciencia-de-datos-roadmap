@@ -39,7 +39,7 @@
     │ │ └── auto clasificacion
     │ │ 
     │ └── Regresion
-    │ ├── Regresión Lineal
+    | ├── Regresión Lineal
     │ ├── Regresión Ridge
     │ ├── Regresión LASSO
     │ ├── Regresión de Vecinos Más Cercanos (KNN para regresión)
