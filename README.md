@@ -1,6 +1,5 @@
 ## Estructura de Directorios y Archivos Resultantes
 
-    Ciencia de datos - Ruta de aprendizaje 
     │
     ├── matematicas
     │   ├── algebra lineal
